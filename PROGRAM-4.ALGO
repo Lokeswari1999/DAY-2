@@ -1,0 +1,6 @@
+Initialize the variables.
+Take the input from user.
+Take number of lottoery tickets from user.
+In given lottery tickets how number 3's in that one to find.
+If number is found then to find how many 3's are there.. using this increment operator.
+Print how many tickets found in those ticket,(where the 3 is found).
