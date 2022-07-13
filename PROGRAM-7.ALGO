@@ -1,0 +1,6 @@
+Initialize the variables.
+Take the input from the user.
+Logic to check the present year is greater than 1990(given year).
+Condition to find the leap years in between given(1990)year and the present year.
+If found the leap year then increment the count and condition is false then increment the year.
+Print how many leap years in between 1990 to 2022(present year).
