@@ -1,0 +1,4 @@
+Initialize the variables.
+Take the input from user.
+Write the logic for 2 digit ID to binary form.
+The logic is one variable is right shifted with another variable and's with 1 then print binary form.
