@@ -1,0 +1,4 @@
+Initialize the variables.
+Take the float values from user.
+Convert celcius to fahrenheit and fahrenheit to celcius by using formula.
+Then print the output celcius to fahrenheit and fahrenheit to celcius.
