@@ -1,0 +1,5 @@
+Initialize the variables.
+Take the input from user.
+To convert encoded message to decoded message.
+Convert this message like one number is modulo with 64 because Ascii valuse starts with 65 thats why taken.
+Printing the decoded message.
